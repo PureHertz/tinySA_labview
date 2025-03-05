@@ -1,6 +1,5 @@
 # tinySA_labview
 
-## Introduction
 The small tinySA LabVIEW interface to control and retrieve data from the tinySA spectrum analyzer using LabVIEW.
 
 ## Features
@@ -14,6 +13,6 @@ The small tinySA LabVIEW interface to control and retrieve data from the tinySA 
   - Perform a scan and send the data via binary form
 - sweep.vi
   - Set sweep boundaries
-<!-- 
+
 ## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details. -->
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.

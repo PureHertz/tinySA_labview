@@ -13,6 +13,8 @@ The small tinySA LabVIEW interface to control and retrieve data from the tinySA 
   - Perform a scan and send the data via binary form
 - sweep.vi
   - Set sweep boundaries
+- tinySA_example.vi
+  - Small tinySA front end example
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.

@@ -13,6 +13,8 @@ The small tinySA LabVIEW interface to control and retrieve data from the tinySA 
   - Perform a scan and send the data via binary form
 - sweep.vi
   - Set sweep boundaries
+- flush.vi
+  - Flush serial buffer.
 - tinySA_example.vi
   - Small tinySA front end example
 
